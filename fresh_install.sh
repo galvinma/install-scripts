@@ -34,6 +34,7 @@ source ./application_install/etcher.sh
 source ./application_install/google_chrome.sh
 source ./application_install/google_cloud_platform_sdk.sh
 source ./application_install/libre_office.sh
+source ./application_install/mpv.sh
 source ./application_install/slack.sh
 source ./application_install/steam.sh
 source ./application_install/terminator.sh

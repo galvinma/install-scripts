@@ -11,11 +11,13 @@ Scripts and dotfiles for a fresh install of Ubuntu. Entrypoint is ./fresh_instal
 - Google Chrome
 - Google Cloud Platform SDK
 - Libreoffice
+- MPV Media Player
 - Slack
 - Steam
 - Terminator
 - Transmission
 - VLC
+- VSCode
 
 ### Languages
 - Golang
