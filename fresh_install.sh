@@ -39,3 +39,4 @@ source ./application_install/steam.sh
 source ./application_install/terminator.sh
 source ./application_install/transmission.sh
 source ./application_install/vlc.sh
+source ./application_install/vs_code.sh
