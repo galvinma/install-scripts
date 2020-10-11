@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 echo "Installing Google Cloud Platform SDK..."
 
 cd ~/

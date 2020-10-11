@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 echo "Installing etcher..."
 
 echo "deb https://deb.etcher.io stable etcher" | sudo tee /etc/apt/sources.list.d/balena-etcher.list

@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 
 sudo apt-get install build-essential -y
 sudo apt install make -y

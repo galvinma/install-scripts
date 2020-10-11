@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 echo "Installing MPV..."
 
 sudo add-apt-repository ppa:mc3man/mpv-tests -y
