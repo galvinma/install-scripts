@@ -9,3 +9,5 @@ sudo apt-get install ca-certificates -y
 sudo apt-get install curl -y
 sudo apt-get install gnupg-agent -y
 sudo apt-get install software-properties-common -y
+sudo apt install net-tools -y
+
