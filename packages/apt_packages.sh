@@ -9,5 +9,7 @@ sudo apt-get install ca-certificates -y
 sudo apt-get install curl -y
 sudo apt-get install gnupg-agent -y
 sudo apt-get install software-properties-common -y
+sudo apt install texlive-latex-extra
+sudo apt install texlive-fonts-extra
 sudo apt install net-tools -y
 

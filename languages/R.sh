@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Installing R and RStudio..."
+echo "Installing R..."
 
 sudo apt install r-base
